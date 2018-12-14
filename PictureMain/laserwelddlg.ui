@@ -127,7 +127,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>备注 ：</string>
+    <string>备注：</string>
    </property>
   </widget>
   <widget class="QLabel" name="label_5">
