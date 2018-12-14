@@ -694,5 +694,5 @@ void MainWindow::on_pushButton_7_clicked()
     ui->tableWidget->clear();
     ui->tableWidget_2->clear();
     //测试一下回滚功能
-
+    //ceshiyuixiahebingfenzhi
 }
